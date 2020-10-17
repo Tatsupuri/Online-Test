@@ -1,0 +1,13 @@
+# Blender MTL File: 'ES.blend'
+# Material Count: 1
+
+newmtl material_0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/tatsuki/Downloads/map_cd771f61-3966-481e-91eb-3dd68e49f31a_densified_obj/map_cd771f61-3966-481e-91eb-3dd68e49f31a_densified_mesh_textured_8192.jpg
